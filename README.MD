@@ -1,0 +1,1 @@
+This is public repo with information about Counter AR iOS application by Andrey Romanov
